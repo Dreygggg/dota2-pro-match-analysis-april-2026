@@ -40,7 +40,7 @@ This project demonstrates end-to-end data analysis using Microsoft Excel — fro
 
 | File | Description |
 |---|---|
-| `players.xlsx` | Raw player data (24,930 rows) — cleaned and transformed |
+| `players.xlsx` | Player data (24,930 rows) — cleaned and transformed |
 | `picks_bans.xlsx` | Draft data — 59,530 pick and ban actions across all matches |
 | `main_metadata.xlsx` | Match-level data — 2,378 cleaned matches |
 | `teams.xlsx` | Team information linked to match results |
