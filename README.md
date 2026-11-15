@@ -17,7 +17,7 @@ End-to-end data analysis project in **Microsoft Excel**: raw match data cleaned 
 
 ## Dashboard
 
-![Dashboard](images/dashboard.jpg)
+![Dashboard](images/dashboard.png)
 
 Top picked and banned heroes (with a lane slicer), the best 6 heroes per role with tier badges, the best 10 teams by win rate, and the best 6 players per role.
 
