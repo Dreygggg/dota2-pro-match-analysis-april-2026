@@ -11,20 +11,20 @@ End-to-end data analysis project in **Microsoft Excel**: raw match data cleaned 
 ## The answer in four lines
 
 1. **Heroes are ranked by more than pick rate.** The tier list (S to D) weighs win rate (50%), pick rate (25%) and ban rate (25%), so a hero that is picked a lot but loses does not rank high.
-2. **Top heroes per lane:** the dashboard shows the 6 best heroes in each of the 6 roles (Carry, Mid, Off Lane, Soft Support, Hard Support, Roam) by win rate. [ADD: one or two examples from your dashboard, e.g. the best Carry and the most banned hero.]
+2. **Top heroes per lane:** the dashboard shows the 6 best heroes in each role by win rate. The highest are Pudge at Carry (82%), Spirit Breaker at Mid (80%) and Pugna at Hard Support (79%). Batrider is the most banned hero (1,455 bans) and Rubick the most picked (1,070 picks, about 51% win rate), so popularity and ban pressure do not match who wins most.
 3. **Best team:** among the teams with 10+ matches, **InterActive Philippines** had the highest win rate at **65%**.
-4. **Best players:** the top 6 players per role are listed with their main hero, win rate, average GPM and average XPM. [ADD: one example, e.g. the best Mid player.]
+4. **Best players:** the top 6 players per role are listed with their main hero, win rate, average GPM and average XPM. The best player in every role wins 79% of their games.
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.jpg)
 
-[ADD: one sentence describing the screenshot, e.g. "Top picked and banned heroes with a lane slicer, the hero tier list, and the best teams and players."]
+Top picked and banned heroes (with a lane slicer), the best 6 heroes per role with tier badges, the best 10 teams by win rate, and the best 6 players per role.
 
 ### Hero performance
 - **Most picked heroes:** top 10 by pick count, filtered by lane with a slicer.
 - **Most banned heroes:** top 10 by ban count.
-- **Best heroes by role:** top 6 per lane by win rate, with S/A/B/C/D tier badges.
+- **Best heroes by role:** top 6 per lane by win rate (carry, mid, off lane, soft support, hard support), with S/A/B/C/D tier badges.
 - **Hero tier list:** weighted score of win rate (50%), pick rate (25%) and ban rate (25%).
 
 ### Team performance
